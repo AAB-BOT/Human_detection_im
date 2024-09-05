@@ -1,2 +1,2 @@
 # Human_detection_im
-a project which utilises human detection in cameras. can be utilised in areas concerning large public gathering.
+A project which utilises human detection in cameras. Utlises Python, OpenVino for the project and can be utilised in areas concerning large public gathering.
